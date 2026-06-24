@@ -10,8 +10,6 @@ https://scd-final.vercel.app/
 
 <img width="1001" height="524" alt="image" src="https://github.com/user-attachments/assets/71cb2c08-7804-4425-9203-28b93070f831" />
 
-<img width="999" height="524" alt="image" src="https://github.com/user-attachments/assets/701f094c-bf57-407e-8c89-31534e1f2175" />
-
 <img width="1000" height="525" alt="image" src="https://github.com/user-attachments/assets/99be39c7-c682-4b54-b415-eb29400378c4" />
 
 
