@@ -73,7 +73,8 @@ The database is designed using an Entity Relationship (ER) Model consisting of:
 
 ### ER Diagram
 
-![ER Diagram](assets/er-diagram.png)
+<img width="3552" height="1926" alt="Er model_team id 3" src="https://github.com/user-attachments/assets/270abbe7-62b4-4452-a84d-a12900cc7ebb" />
+
 
 ---
 
