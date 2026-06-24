@@ -106,14 +106,6 @@ The database is designed using an Entity Relationship (ER) Model consisting of:
 
 ---
 
-## Academic Information
-
-Course: Database Management System (CDCS0302)
-
-Institution: Netaji Subhas University of Technology (NSUT)
-
----
-
 ## Future Enhancements
 
 - Real-time order notifications
